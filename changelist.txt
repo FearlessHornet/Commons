@@ -1,0 +1,25 @@
+Project:		Potato Library
+Programmer:		Kaleb McCall
+Company:		Potato Softworks
+Version:		1.1.0
+Date:			19 April 2013
+
+Changelist:
+1.1.0:
+Created Potato::Debug class.
+Created Potato::Debug::PrintVector source.
+Created Potato::Strings source for the following:
+	- ReadFile
+	- GetLines
+	
+1.0.1:
+Change default parameters for Potato::Strings::Split function to be in header declaration rather than in the definition.
+
+1.0.0:
+Created Potato::Strings class.
+Created Potato::Pair struct.
+Created Potato::Strings::Split source.
+Compiled debug and release builds.
+	
+0.0.1:
+Created project.
