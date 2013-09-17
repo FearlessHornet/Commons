@@ -1,10 +1,13 @@
 Project:		Potato Library
 Programmer:		Kaleb McCall
 Company:		Potato Softworks
-Version:		1.1.0
-Date:			19 April 2013
+Version:		1.2.0
+Date:			17 September 2013
 
 Changelist:
+1.2.0:
+Overloaded Potato::Pair operators (+, -, *, ++, --, +=, -=, *=, =, ==, !=).
+
 1.1.0:
 Created Potato::Debug class.
 Created Potato::Debug::PrintVector source.
